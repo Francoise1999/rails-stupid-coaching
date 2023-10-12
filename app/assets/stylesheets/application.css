@@ -17,3 +17,12 @@
  .tag{
   font-style: italic;
  }
+
+ .you, .coach{
+  border-left: 4px solid rgb(219, 218, 218);
+  padding-left: 15px;
+ }
+
+ .coach{
+  background-color: rgb(250, 250, 202);
+ }
